@@ -1,0 +1,2 @@
+Here can be some json or comma-separated large data structures for input data, to start processing.
+There is no need for this file if user input will be short, it can be read directly from the terminal.
